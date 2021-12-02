@@ -22,7 +22,7 @@ This is a basic calculator app made from Kotlin, which supports all basic calcul
 
 | Screenshot 1 	|
 |--------------	|
-|  ![Screenshot 1](screenshots/1.png) |
+|  <img src="https://raw.githubusercontent.com/LiquidatorCoder/UCalc/main/screenshots/1.png" width=200> |
 
 ## Built With
 
